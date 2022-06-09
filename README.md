@@ -2,7 +2,7 @@
 
 ![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片/首页推荐.png)
 
-![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片//首页.png)
+![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片/首页.png)
 
 ![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片/首页下.png)
 
@@ -27,3 +27,4 @@
 ![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片/购物车.png)
 
 ![Image text](https://gitee.com/jiang-jinpeng-acd/eternal-wind-current/raw/master/项目图片/购物车编辑.png)
+
