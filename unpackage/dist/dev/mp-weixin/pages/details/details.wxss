@@ -1,0 +1,132 @@
+
+.details.data-v-39cbb4e8{
+	padding-bottom: 90rpx;
+}
+swiper.data-v-39cbb4e8{
+	width: 100%;
+	height: 700rpx;
+}
+.swiper-img.data-v-39cbb4e8{
+	width: 100%;
+	height: 700rpx;
+}
+.details-goods.data-v-39cbb4e8{
+	text-align: center;
+	font-weight: 700;
+	font-size: 36rpx;
+	padding: 10rxp 0;
+}
+.details-img.data-v-39cbb4e8{
+	display: inline-block;
+	 width: 100%;
+}
+.details-foot.data-v-39cbb4e8{
+	position: fixed;
+	left:0;
+	bottom: 0;
+	width:100%;
+	height: 90rpx;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #FFFFFF;
+}
+.add-shopcart.data-v-39cbb4e8{
+	
+	height: 90rpx;
+	background-color: #000000;
+	text-align: center;
+	color:#FFFFFF;
+	line-height: 90rpx;
+	flex: 30%;
+}
+.purchase.data-v-39cbb4e8{
+
+	height: 90rpx;
+	background-color: #49BDFB;
+	color:#FFFFFF;
+	text-align: center;
+	line-height: 90rpx;
+
+	flex: 30%;
+}
+.iconss.data-v-39cbb4e8{
+	display: flex;
+	flex: 40%;
+}
+.iconss view.data-v-39cbb4e8{
+	flex: 1;
+	text-align: center;
+	line-height: 90rpx;
+	width: 60rpx;
+	height: 90rpx;
+	font-size: 25px;
+}
+.pop.data-v-39cbb4e8{
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+}
+.pop-mask.data-v-39cbb4e8{
+	position: absolute;
+	left: 0%;
+	top: 0%;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+.pop-box.data-v-39cbb4e8{
+	position: absolute;
+	left: 0%;
+	bottom: 0%;
+	width: 100%;
+	height: 50%;
+	background-color:#FFFFFF;
+}
+.pop-img.data-v-39cbb4e8{
+	position: absolute;
+	top: -20%;
+	left: 5%;
+	width: 260rpx;
+	height: 260rpx;
+}
+.pop-sub.data-v-39cbb4e8{
+	position: absolute;
+	bottom: 0;
+	left: 0%;
+	right: 0;
+	height: 80rpx;
+	line-height: 80rpx;
+	/* border-color: #49BDFB; */
+	background-color: #49BDFB;
+	/* color: #ffffff; */
+	text-align: center;
+}
+.pop-num.data-v-39cbb4e8{
+	padding: 20rpx;
+	display: flex;
+	justify-content: space-between;
+}
+.img-box.data-v-39cbb4e8{
+	margin-bottom: 100px;
+}
+.color-box.data-v-39cbb4e8{
+	display: flex;
+	height: 80rpx;
+	width: 100%;
+	align-items: center;
+}
+.color-item.data-v-39cbb4e8{
+	width: 100rpx;
+	height: 50rpx;
+	border-radius: 40rpx;
+	background-color: #fff;
+	text-align: center;
+	line-height: 50rpx;
+	margin-left: 30rpx;
+	border: 1px solid #000000;
+}
+

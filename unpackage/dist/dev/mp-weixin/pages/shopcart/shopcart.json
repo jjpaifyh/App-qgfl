@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-nav-bar": "/components/uni/uni-nav-bar/uni-nav-bar",
+    "uni-berbox": "/components/uni/uni-number-box/uni-number-box"
+  }
+}

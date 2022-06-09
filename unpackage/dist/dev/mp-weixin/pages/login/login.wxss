@@ -1,0 +1,40 @@
+
+.login-tel.data-v-b237504c{
+	width: 100vw;
+	height: 100vh;
+}
+.tel-main.data-v-b237504c{
+	padding:0 20rpx;
+}
+.close.data-v-b237504c{
+	padding:120rpx 0;
+}
+.close-img.data-v-b237504c{
+	width:60rpx;
+	height: 60rpx;
+}
+.logo.data-v-b237504c{
+	padding-bottom: 100rpx;
+	display: flex;
+	justify-content: center;
+}
+.tel.data-v-b237504c{
+	width:100%;
+	height: 80rpx;
+	line-height: 80rpx;
+	text-align: center;
+	color:#FFFFFF;
+	background-color: #49BDFB;
+	border-radius: 40rpx;
+}
+.login-go.data-v-b237504c{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.login-go image.data-v-b237504c{
+	width:60rpx;
+	height: 60rpx;
+}
+

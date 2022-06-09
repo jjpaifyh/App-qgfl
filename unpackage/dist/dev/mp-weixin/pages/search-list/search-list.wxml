@@ -1,0 +1,1 @@
+<view><shop-list class="vue-ref" vue-id="11bff978-1" keyword="{{keyword}}" data-ref="shoplist" bind:__l="__l"></shop-list></view>

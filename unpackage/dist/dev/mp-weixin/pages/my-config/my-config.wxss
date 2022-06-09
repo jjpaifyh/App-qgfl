@@ -1,0 +1,24 @@
+
+.config-item.data-v-0806c78e{
+	display: flex;
+	padding: 20rpx ;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 2rpx solid #cccccc;
+	height: 70rpx;
+}
+.my-exit.data-v-0806c78e{
+	background-color: #49bdfb;
+	width: 100%;
+	line-height: 82rpx;
+	color: #fff;
+	text-align: center;
+}
+.main.data-v-0806c78e{
+	width: 100%;
+	text-align: center;
+	height: 60rpx;
+	line-height: 60rpx;
+	border-bottom: 2rpx solid #cccccc;
+}
+

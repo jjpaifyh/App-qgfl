@@ -1,0 +1,36 @@
+
+.payment-success.data-v-afe4df00{
+	position: relative;
+	background-color: #fff;
+	width: 100%;
+}
+.abc.data-v-afe4df00{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	-webkit-transform: translate(-50%,-50%);
+	        transform: translate(-50%,-50%);
+	width:400rpx ;
+	height: 600rpx;
+}
+.payment-text.data-v-afe4df00{
+	width: 300rpx;
+	height: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	border: 2rpx solid aqua;
+	border-radius: 60rpx;
+}
+.imgg.data-v-afe4df00{
+	width: 600rpx;
+	height: 600rpx;
+}
+.imgg image.data-v-afe4df00{
+	width: 600rpx;
+	height: 600rpx;
+}
+

@@ -1,0 +1,42 @@
+
+.pay-item.data-v-031d9d14{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding:20rpx;
+	border-bottom: 2rpx solid #CCCCCC;
+}
+.pay-img.data-v-031d9d14{
+	width: 100rpx;
+	height: 100rpx;
+}
+.pay-txt.data-v-031d9d14{
+	color:#CCCCCC;
+}
+.pay-foot.data-v-031d9d14{
+	width:100%;
+	position: fixed;
+	left:0;
+	bottom:0;
+	height: 100rpx;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.total.data-v-031d9d14{
+	padding-left:100rpx;
+	flex:1;
+	background-color:#000000;
+	line-height: 100rpx;
+}
+.go-pay.data-v-031d9d14{
+	color:#FFFFFF;
+	background-color: #49BDFB;
+	line-height: 100rpx;
+	text-align: center;
+	width:220rpx;
+}
+.total-price.data-v-031d9d14{
+	color:#FFFFFF;
+}
+
